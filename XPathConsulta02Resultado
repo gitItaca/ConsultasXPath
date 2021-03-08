@@ -1,0 +1,16 @@
+<produc>
+		<cod_prod>1010</cod_prod>
+		<denominacion>Placa Base MSI G41M -P26</denominacion>
+		<precio>50</precio>
+		<stock_actual>10</stock_actual>
+		<stock_minimo>3</stock_minimo>
+		<cod_zona>10</cod_zona>
+	</produc>
+<produc>
+		<cod_prod>1022</cod_prod>
+		<denominacion>Placa Base ASRock G41M -S3 </denominacion>
+		<precio>52</precio>
+		<stock_actual>2</stock_actual>
+		<stock_minimo>2</stock_minimo>
+		<cod_zona>30</cod_zona>
+	</produc>

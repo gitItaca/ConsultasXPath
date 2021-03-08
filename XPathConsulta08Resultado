@@ -1,0 +1,8 @@
+<produc>
+		<cod_prod>1012</cod_prod>
+		<denominacion>Micro Intel Core i5 2500</denominacion>
+		<precio>170</precio>
+		<stock_actual>5</stock_actual>
+		<stock_minimo>6</stock_minimo>
+		<cod_zona>20</cod_zona>
+	</produc>

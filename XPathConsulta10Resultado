@@ -1,0 +1,8 @@
+<produc>
+		<cod_prod>1011</cod_prod>
+		<denominacion>Micro Intel Core i5 -2320</denominacion>
+		<precio>120</precio>
+		<stock_actual>3</stock_actual>
+		<stock_minimo>5</stock_minimo>
+		<cod_zona>10</cod_zona>
+	</produc>

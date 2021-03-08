@@ -1,0 +1,2 @@
+avg(//produc[denominacion[contains(.,"Micro")]]/precio)
+
